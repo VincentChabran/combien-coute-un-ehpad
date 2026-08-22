@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vincentchabran.github.io/combien-coute-un-ehpad/sitemap.xml
