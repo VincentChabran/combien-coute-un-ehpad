@@ -67,3 +67,4 @@ Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se c
 - [2 250 € (accrochage responsable, 2025)](https://github.com/VincentChabran/combien-coute-un-accident-de-voiture)
 - [14 221 €/an (étudiant·e décohabitant·e, 2026)](https://github.com/VincentChabran/combien-coute-une-rentree-etudiante)
 - [14 069 € (incendie, 2025)](https://github.com/VincentChabran/combien-coute-un-sinistre-habitation)
+- [36 700 € (moyenne toutes motorisations, 2025)](https://github.com/VincentChabran/combien-coute-une-voiture-neuve)
